@@ -1,0 +1,46 @@
+{
+  "name": "ridwaanzan/worldcurrency",
+  "description": "World Currency for Laravel",
+  "license": "MIT",
+  "keywords": [
+    "laravel",
+    "php",
+    "csv",
+    "indonesia",
+    "world",
+    "currency",
+    "mata",
+    "uang",
+    "dunia"
+  ],
+  "authors": [
+    {
+      "name": "Ridwan Haqi",
+      "email": "ridwan.haqi@gmail.com"
+    }
+  ],
+  "require": {
+    "parsecsv/php-parsecsv": "1.1"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "4.8.*"
+  },
+  "autoload": {
+    "psr-4": {
+      "Ridwaanzan\\Worldcurrency\\": "src/"
+    },
+    "files": [
+      "src/RawDataGetter.php"
+    ]
+  },
+  "extra": {
+    "laravel": {
+      "providers": [
+        "Ridwaanzan\\Worldcurrency\\WorldcurrencyServiceProvider"
+      ],
+      "aliases": {}
+    }
+  },
+  "homepage": "https://github.com/ridwaanzan",
+  "prefer-stable": true
+}

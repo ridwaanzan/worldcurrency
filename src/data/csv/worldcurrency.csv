@@ -1,0 +1,170 @@
+id;code;country;currency_name
+1;AED;United Arab Emirates;Dirhams
+2;AFN;Afghanistan;Afghanis
+3;ALL;Albania;Leke
+4;AMD;Armenia;Drams
+5;ANG;Netherlands Antilles;Guilders (also called Florins)
+6;AOA;Angola;Kwanza
+7;ARS;Argentina;Pesos
+8;AUD;Australia;Dollars
+9;AWG;Aruba;Guilders (also called Florins)
+10;AZN;Azerbaijan;New Manats
+11;BAM;Bosnia and Herzegovina;Convertible Marka
+12;BBD;Barbados;Dollars
+13;BDT;Bangladesh;Taka
+14;BGN;Bulgaria;Leva
+15;BHD;Bahrain;Dinars
+16;BIF;Burundi;Francs
+17;BMD;Bermuda;Dollars
+18;BND;Brunei Darussalam;Dollars
+19;BOB;Bolivia;Bolivianos
+20;BRL;Brazil;Brazil Real
+21;BSD;Bahamas;Dollars
+22;BTN;Bhutan;Ngultrum
+23;BWP;Botswana;Pulas
+24;BYR;Belarus;Rubles
+25;BZD;Belize;Dollars
+26;CAD;Canada;Dollars
+27;CDF;Congo/Kinshasa;Congolese Francs
+28;CHF;Switzerland;Francs
+29;CLP;Chile;Pesos
+30;CNY;China;Yuan Renminbi
+31;COP;Columbia;Pesos
+32;CRC;Costa Rica;Colones
+33;CUP;Cuba;Pesos
+34;CVE;Cabo Verde;Escudos
+35;CZK;Czech Republic;Koruny
+36;DJF;Djibouti;Francs
+37;DKK;Denmark;Kroner
+38;DOP;Dominican Republic;Pesos
+39;DZD;Algeria;Algeria Dinars
+40;EEK;Estonia;Krooni
+41;EGP;Egypt;Pounds
+42;ERN;Eritrea;Nakfa
+43;ETB;Ethopia;Birr
+44;EUR;Euro Member Countries;Euro
+45;FJD;Fiji;Dollars
+46;FKP;Falkland Islands;Pounds
+47;GBP;United Kingdom;Pounds
+48;GEL;Georgia;Lari
+49;GGP;Guernsey;Pounds
+50;GHS;Ghana;Cedis
+51;GIP;Gibraltar;Pounds
+52;GMD;Gambia;Dalasi
+53;GNF;Guinea;Francs
+54;GTQ;Guatemala;Quetzales
+55;GYD;Guyana;Dollars
+56;HKD;Hong Kong Special Administrative Region;Dollars
+57;HNL;Honduras;Lempiras
+58;HRK;Croatia;Kuna
+59;HTG;Haiti;Gourdes
+60;HUF;Hungary;Forint
+61;IDR;Indonesia;Rupiahs
+62;ILS;Israel;New Shekels
+63;IMP;Isle of Man;Pounds
+64;INR;India;Rupees
+65;IQD;Iraq;Dinars
+66;IRR;Iran;Rials
+67;ISK;Iceland;Kronur
+68;JEP;Jersey;Pounds
+69;JMD;Jamaica;Dollars
+70;JOD;Jordan;Dinars
+71;JPY;Japan;Yen
+72;KES;Kenya;Shillings
+73;KGS;Kyrgyzstan;Soms
+74;KHR;Cambodia;Riels
+75;KMF;Comoros;Francs
+76;KPW;Korea (North);Won
+77;KRW;Korea (South);Won
+78;KWD;Kuwait;Dinars
+79;KYD;Cayman Islands;Dollars
+80;KZT;Kazakhstan;Tenge
+81;LAK;Laos;Kips
+82;LBP;Lebanon;Pounds
+83;LKR;Sri Lanka;Rupees
+84;LRD;Liberia;Dollars
+85;LSL;Lesotho;Maloti
+86;LTL;Lithuania;Litai
+87;LVL;Latvia;Lati
+88;LYD;Libya;Dinars
+89;MAD;Morocco;Dirhams
+90;MDL;Moldova;Dei
+91;MGA;Madagascar;Ariary
+92;MKD;North Macedonia;Denars
+93;MMK;Myanmar (Burma);Kyats
+94;MNT;Mongolia;Tugriks
+95;MOP;Macao Special Administrative Revion;Patacas
+96;MRO;Mauritania;Ouguiyas
+97;MUR;Mauritius;Rupees
+98;MVR;Maldives (Maldive Islands);Rufiyaa
+99;MWK;Malawi;Kwachas
+100;MXN;Mexico;Pesos
+101;MYR;Malaysia;Ringgits
+102;MZN;Mozambique;Meticais
+103;NAD;Namibia;Dollars
+104;NGN;Nigeria;Nairas
+105;NIO;Nicaragua;Cordobas
+106;NOK;Norway;Krone
+107;NPR;Nepal;Nepal Rupees
+108;NZD;New Zealand;Dollars
+109;OMR;Oman;Rials
+110;PAB;Panama;Balboa
+111;PEN;Peru;Nuevos Soles
+112;PGK;Papua New Guinea;Kina
+113;PHP;Philippines;Pesos
+114;PKR;Pakistan;Rupees
+115;PLN;Poland;Zlotych
+116;PYG;Paraguay;Guarani
+117;QAR;Qatar;Rials
+118;RON;Romania;New Lei
+119;RSD;Serbia;Dinars
+120;RUB;Russia;Rubles
+121;RWF;Rwanda;Rwanda Francs
+122;SAR;Saudi Arabia;Riyals
+123;SBD;Solomon Islands;Dollars
+124;SCR;Seychelles;Rupees
+125;SDG;Sudan;Pounds
+126;SEK;Sweden;Kronor
+127;SGD;Singapore;Dollars
+128;SHP;St Helena, Ascension, Tristan da Cunha;Pounds
+129;SKK;Slovakia;Koruny
+130;SLL;Sierra Leone;Leones
+131;SOS;Somalia;Shillings
+132;SPL;Seborga;Luigini
+133;SRD;Suriname;Dollars
+134;STD;S?o Tome and Principe;Dobras
+135;SVC;El Salvador;Colones
+136;SYP;Syria;Pounds
+137;SZL;Swaziland;Emalangeni
+138;THB;Thailand;Baht
+139;TJS;Tajikistan;Somoni
+140;TMM;Turkmenistan;Manats
+141;TND;Tunisia;Dinars
+142;TOP;Tonga;Pa'anga
+143;TRY;TÅrkiye;New Lira
+144;TTD;Trinidad and Tobago;Dollars
+145;TVD;Tuvalu;Tuvalu Dollars
+146;TWD;Taiwan;New Dollars
+147;TZS;Tanzania;Shillings
+148;UAH;Ukraine;Hryvnia
+149;UGX;Uganda;Shillings
+150;USD;United States of America;Dollars
+151;UYU;Uruguay;Pesos
+152;UZS;Uzbekistan;Sums
+153;VEF;Venezuela;Bolivares Fuertes
+154;VND;Viet Nam;Dong
+155;VUV;Vanuatu;Vatu
+156;WST;Samoa;Tala
+157;XAF;CommunautÇ Financiäre Africaine BEAC;Francs
+158;XAG;Silver;Ounces
+159;XAU;Gold;Ounces
+160;XCD;East Caribbean;Dollars
+161;XDR;International Monetary Fund (IMF);Special Drawing Rights
+162;XOF;CommunautÇ Financiäre Africaine BCEAO;Francs
+163;XPD;Palladium;Ounces
+164;XPF;Comptoirs Franáais du Pacifique;Francs
+165;XPT;Platinum;Ounces
+166;YER;Yemen;Rials
+167;ZAR;South Africa;Rand
+168;ZMK;Zambia;Kwacha
+169;ZWD;Zimbabwe;Zimbabwe Dollars
