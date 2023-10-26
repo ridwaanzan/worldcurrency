@@ -1,6 +1,7 @@
 {
   "name": "ridwaanzan/worldcurrency",
   "description": "World Currency for Laravel",
+  "version": "1.0.1",
   "license": "MIT",
   "keywords": [
     "laravel",
