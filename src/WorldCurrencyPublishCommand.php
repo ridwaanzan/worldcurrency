@@ -40,6 +40,19 @@ class WorldCurrencyPublishCommand extends Command
         $this->fire();
     }
 
+    /**
+     * Execute the console command.
+     *
+     * @return void
+     */
+    public function fire()
+    {
+        $this->publishModels();
+        $this->publishMigrations();
+        $this->publishSeeds();
+
+        $this->info("Publishing WorldCurrency complete");
+    }
 
     /**
      * Publish the directory to the given directory.

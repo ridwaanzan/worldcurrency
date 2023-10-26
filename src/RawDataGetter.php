@@ -29,7 +29,7 @@ class RawDataGetter
      */
     public static function getWorldCurrency()
     {
-        $result = self::getCsvData(self::$path . 'worldcurrency.csv');
+        $result = self::getCsvData(self::$path . '/worldcurrency.csv');
 
         return $result;
     }

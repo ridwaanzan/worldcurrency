@@ -132,7 +132,7 @@ id;code;country;currency_name
 131;SOS;Somalia;Shillings
 132;SPL;Seborga;Luigini
 133;SRD;Suriname;Dollars
-134;STD;S?o Tome and Principe;Dobras
+134;STD;Sao Tome and Principe;Dobras
 135;SVC;El Salvador;Colones
 136;SYP;Syria;Pounds
 137;SZL;Swaziland;Emalangeni
@@ -140,8 +140,8 @@ id;code;country;currency_name
 139;TJS;Tajikistan;Somoni
 140;TMM;Turkmenistan;Manats
 141;TND;Tunisia;Dinars
-142;TOP;Tonga;Pa'anga
-143;TRY;TÅrkiye;New Lira
+142;TOP;Tonga;Paanga
+143;TRY;Turkiye;New Lira
 144;TTD;Trinidad and Tobago;Dollars
 145;TVD;Tuvalu;Tuvalu Dollars
 146;TWD;Taiwan;New Dollars
@@ -155,14 +155,14 @@ id;code;country;currency_name
 154;VND;Viet Nam;Dong
 155;VUV;Vanuatu;Vatu
 156;WST;Samoa;Tala
-157;XAF;CommunautÇ Financiäre Africaine BEAC;Francs
+157;XAF;Communaut - Financisre Africaine BEAC;Francs
 158;XAG;Silver;Ounces
 159;XAU;Gold;Ounces
 160;XCD;East Caribbean;Dollars
 161;XDR;International Monetary Fund (IMF);Special Drawing Rights
-162;XOF;CommunautÇ Financiäre Africaine BCEAO;Francs
+162;XOF;Communaut - Financisre Africaine BCEAO;Francs
 163;XPD;Palladium;Ounces
-164;XPF;Comptoirs Franáais du Pacifique;Francs
+164;XPF;Comptoirs Franfais du Pacifique;Francs
 165;XPT;Platinum;Ounces
 166;YER;Yemen;Rials
 167;ZAR;South Africa;Rand
