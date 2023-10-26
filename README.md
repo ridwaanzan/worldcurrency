@@ -18,7 +18,7 @@ composer require ridwaanzan/worldcurrency
 
 | Laravel Version | Version | Composer Installation                       |
 | --------------- | ------- | ------------------------------------------- |
-| 7,8,9           | 1.0.0   | `composer require ridwaanzan/worldcurrency` |
+| 7,8,9           | 1.1.0   | `composer require ridwaanzan/worldcurrency` |
 
 ### Register Service Provider
 
@@ -43,9 +43,9 @@ php artisan worldcurrency:publish
 
 When you run the command, it will copying files:
 
--   Migration files from `/packages/ridwaanzan/worldcurrency/src/database/migrations` to `/database/migrations`
--   Seeder files from `/packages/ridwaanzan/worldcurrency/src/database/seeds` to `/database/seeds`
--   Model files from `/packages/ridwaanzan/worldcurrency/src/database/models` to `/app/Models`
+- Migration files from `/packages/ridwaanzan/worldcurrency/src/database/migrations` to `/database/migrations`
+- Seeder files from `/packages/ridwaanzan/worldcurrency/src/database/seeds` to `/database/seeds`
+- Model files from `/packages/ridwaanzan/worldcurrency/src/database/models` to `/app/Models`
 
 After you run the publish command, you should to run:
 

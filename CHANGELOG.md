@@ -12,3 +12,9 @@ Changes:
 
     - Adding version in composer.json
     - editing PHP version in .travis.yml
+
+## 1.1.0
+
+Changes:
+
+    - update version in composer.json
