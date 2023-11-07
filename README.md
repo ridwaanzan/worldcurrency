@@ -18,7 +18,7 @@ composer require ridwaanzan/worldcurrency
 
 | Laravel Version | Version | Composer Installation                       |
 | --------------- | ------- | ------------------------------------------- |
-| 7,8,9           | 1.1.1   | `composer require ridwaanzan/worldcurrency` |
+| 7,8,9           | 1.1.2   | `composer require ridwaanzan/worldcurrency` |
 
 ### Register Service Provider
 

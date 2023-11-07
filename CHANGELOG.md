@@ -26,3 +26,9 @@ Changes:
     - delete unused migration files.
     - Add fire() method in WorldCurrencyPublishCommand
     - update version in composer.json
+
+## 1.1.2
+
+Changes:
+
+    - Bug fixing WorldCurrency models.

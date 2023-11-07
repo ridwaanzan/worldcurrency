@@ -8,6 +8,7 @@
  * Created at: 26 October 2023
  * 
  */
+namespace App\Models;
 
 use Ridwaanzan\Worldcurrency\Traits\WorldCurrencyTrait;
 use Illuminate\Database\Eloquent\Model;
