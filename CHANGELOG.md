@@ -38,3 +38,9 @@ Changes:
 Changes:
 
     - Fixing file name, bug PSR-4
+
+## 1.1.4
+
+Changes:
+
+    - Fixing typo class name
