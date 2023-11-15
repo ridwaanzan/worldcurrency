@@ -31,7 +31,7 @@ Changes:
 
 Changes:
 
-    -
+    - Bug fixing WorldCurrency models.
 
 ## 1.1.3
 
