@@ -18,7 +18,7 @@ composer require ridwaanzan/worldcurrency
 
 | Laravel Version | Version | Composer Installation                       |
 | --------------- | ------- | ------------------------------------------- |
-| 7,8,9           | 1.1.4   | `composer require ridwaanzan/worldcurrency` |
+| 7,8,9           | 1.1.5   | `composer require ridwaanzan/worldcurrency` |
 
 ### Register Service Provider
 
@@ -30,7 +30,7 @@ To ensure the use of the service providers class you can open file **config/app.
 
 ```
 // Provider Lain
-Ridwaanzan\Worldcurrency\WorldCurrencyServiceProvider::class,
+Ridwaanzan\Worldcurrency\WorldcurrencyServiceProvider::class,
 ```
 
 ### Publish File
@@ -87,8 +87,8 @@ $currencyByName = WorldCurrency::where('currency_name', 'LIKE', '%rupiah%')->fir
 $currencyByCountry = WorldCurrency::where('country', 'LIKE', '%indonesia%')->first();
 ```
 
-## Advance Usage
+## Information
 
 ```
-Will be updated in 3 days.
+If there's a bug, you can mail me to: ridwan.haqi@gmail.com
 ```

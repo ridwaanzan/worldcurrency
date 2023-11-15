@@ -44,3 +44,9 @@ Changes:
 Changes:
 
     - Fixing typo class name
+
+## 1.1.5
+
+Changes:
+
+    - Fixing typo class name
