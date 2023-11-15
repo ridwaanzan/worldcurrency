@@ -17,7 +17,7 @@ use Ridwaanzan\Worldcurrency\WorldCurrencyPublishCommand;
 /**
  * WorldCurrency Service Provider
  */
-class WorldcurrencyServiceProvider extends ServiceProvider
+class WorldCurrencyServiceProvider extends ServiceProvider
 {
 
     /**
