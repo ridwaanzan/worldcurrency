@@ -26,3 +26,15 @@ Changes:
     - delete unused migration files.
     - Add fire() method in WorldCurrencyPublishCommand
     - update version in composer.json
+
+## 1.1.2
+
+Changes:
+
+    -
+
+## 1.1.3
+
+Changes:
+
+    - Fixing file name, bug PSR-4
