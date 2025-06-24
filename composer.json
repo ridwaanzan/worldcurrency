@@ -24,7 +24,7 @@
     "parsecsv/php-parsecsv": "^1.1"
   },
   "require-dev": {
-    "phpunit/phpunit": "^4.8.*"
+    "phpunit/phpunit": "8.1.*"
   },
   "autoload": {
     "psr-4": {
