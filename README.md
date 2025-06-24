@@ -1,4 +1,4 @@
-[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://packagist.org/packages/ridwaanzan/worldcurrency) [![Latest Stable Version](http://badges.github.io/stability-badges/dist/stable.svg)](https://packagist.org/packages/ridwaanzan/worldcurrency)
+[![Laravel](https://img.shields.io/badge/Laravel-12-FF2D20.svg)](https://packagist.org/packages/ridwaanzan/worldcurrency) [![PHP](https://img.shields.io/badge/PHP-8.1-777BB4)](https://packagist.org/packages/ridwaanzan/worldcurrency) [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://packagist.org/packages/ridwaanzan/worldcurrency) [![Latest Stable Version](https://img.shields.io/badge/Release-Stable-green)](https://packagist.org/packages/ridwaanzan/worldcurrency)
 
 `ridwaanzan/worldcurrency` is a Laravel package for all of currency around the world. The package will add files for migrations, seeder (to import data to database) and Model to your Laravel Project.
 
@@ -18,6 +18,7 @@ composer require ridwaanzan/worldcurrency
 
 | Laravel Version | Version | Composer Installation                       |
 | --------------- | ------- | ------------------------------------------- |
+| 10,11,12        | 1.1.7   | `composer require ridwaanzan/worldcurrency` |
 | 7,8,9           | 1.1.6   | `composer require ridwaanzan/worldcurrency` |
 
 ### Register Service Provider
@@ -26,7 +27,8 @@ composer require ridwaanzan/worldcurrency
 
 If you want to try to use this package in Laravel 6 or the older, it will be error when doing the migrations.
 
-To ensure the use of the service providers class you can open file **config/app.php** and add Class `IndoRegionServiceProvider` inside the array of Service Providers:
+Note for old laravel version (7/8/9):
+To ensure the use of the service providers class you can open file **config/app.php** and add Class `WorldcurrencyServiceProvider` inside the array of Service Providers:
 
 ```
 // Provider Lain

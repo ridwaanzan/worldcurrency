@@ -1,7 +1,7 @@
 {
   "name": "ridwaanzan/worldcurrency",
   "description": "World Currency for Laravel",
-  "version": "1.1.6",
+  "version": "1.1.7",
   "license": "MIT",
   "keywords": [
     "laravel",
@@ -24,7 +24,7 @@
     "parsecsv/php-parsecsv": "^1.1"
   },
   "require-dev": {
-    "phpunit/phpunit": "4.8.*"
+    "phpunit/phpunit": "^4.8.*"
   },
   "autoload": {
     "psr-4": {
