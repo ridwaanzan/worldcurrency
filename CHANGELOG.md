@@ -56,3 +56,9 @@ Changes:
 Changes:
 
     - Fixing typo class name
+
+## 1.1.7
+
+Changes:
+
+    - Update currency data based on data shared by microsoft.
